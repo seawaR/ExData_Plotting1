@@ -1,0 +1,12 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# R data files from past sessions
+..RData
+
+# Ignore data files
+raw-data/*
+
+.DS_Store
+Electric_power_data.zip
